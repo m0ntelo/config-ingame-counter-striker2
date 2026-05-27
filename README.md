@@ -19,8 +19,8 @@
 
 
   ```cs
-  # acesse a pasta e cole o arquivo m0ntelo.cfg
-  C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+  # acesse a pasta e cole o arquivo autoexec.cfg
+  C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
   ```
     
     
@@ -47,7 +47,7 @@
     
 
 1. **Verificando o resultado**
-Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
+Inicie o CS2 para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
 ## Contribuindo
 Solicitações pull são bem-vindas. Para grandes mudanças.
